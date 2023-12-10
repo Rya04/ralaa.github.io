@@ -4,7 +4,7 @@ This is my home page! My name is Ryaheen Alaa and I am a student at [Cal State F
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/@Rya04.
+My GitHub page is http://github.com/rya04.
 
 ### CPSC 120
 
